@@ -18,9 +18,9 @@
 - 酒井研ツール一覧
   - [quiche](q.l0o0l.co)
   - [queristory](qs.l-u-l.tk)
-  - [DiskSpaceInMenuBar](https://github.com/dai---chi/DiskSpaceInMenuBar/releases)
   - TBA
-
+- Tools developed by members
+  - [DiskSpaceInMenuBar](https://github.com/dai---chi/DiskSpaceInMenuBar/releases)
 
 ## life
 - 台所の使用規定
