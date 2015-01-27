@@ -1,1 +1,20 @@
-# docs
+# realsakailab docに載せること
+
+## study
+- 情報検索関連分野の情報を入手できる媒体リスト
+- 検索評価の方法
+- server, corpus に関する各種情報
+- :queristory: のdoc @sosuke-k
+
+## dev
+- coding style ( tex / ruby / python / ??? )
+- sublime text 2 オススメPackages
+- Atom editor オススメPackages
+- Mac App オススメ
+- 酒井研ツール一覧 ([quiche](q.l0o0l.co) / [queristory](qs.l-u-l.tk) / [DiskSpaceInMenuBar](https://github.com/dai---chi/DiskSpaceInMenuBar/releases) / ???)
+
+
+## life
+- 台所の使用規定
+- 持ってくるべき酒の種類
+- 酒に合う料理リスト
